@@ -33,7 +33,7 @@ Implement a checkout system that fulfils these requirements in Ruby.
 Here are some test data:
 
 Basket: FR1, AP1, FR1, CF1
-Total price expected: $22.25
+Total price expected: $22.45
 Basket: FR1, FR1
 Total price expected: $3.11
 Basket: AP1, AP1, FR1, AP1
